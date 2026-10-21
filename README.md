@@ -1,4 +1,4 @@
-# Machine Learning Lab Repo
+# Lab work of ML 
 
 This repository contains my lab work for the Machine Learning Lab course. 
 
@@ -8,7 +8,7 @@ This repository contains my lab work for the Machine Learning Lab course.
 1. Clone the repository and open the folder:
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/TayyabHanif11/ML-Lab-2024-SE-11.git
    cd ML-Lab-2024-SE-11
    ```
 
